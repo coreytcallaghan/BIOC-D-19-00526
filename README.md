@@ -1,4 +1,4 @@
-This repository is to reproduce Callaghan et al. 2020 - Citizen science data accurately predicts expert-derived species richness at a continental scale when sampling thresholds are met. 
+This repository is to reproduce Callaghan et al. 2020 - Citizen science data accurately predicts expert-derived species richness at a continental scale when sampling thresholds are met. https://doi.org/10.1007/s10531-020-01937-3
 
 This repository is archived at Zenodo:[![DOI](https://zenodo.org/badge/234460531.svg)](https://zenodo.org/badge/latestdoi/234460531)
 
